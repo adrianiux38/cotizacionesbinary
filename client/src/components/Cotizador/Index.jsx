@@ -80,7 +80,7 @@ const ServicesPage = () => {
   }, []);
 
   const getData = async () => {
-    fetch("/getData", {
+    fetch("https://binaryquotations.herokuapp.com/getData", {
       method: "GET",
       headers: {
         "Content-Type": "application/json",
