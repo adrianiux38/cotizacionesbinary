@@ -13,8 +13,6 @@ app.use(express.json());
 
 const PORT = process.env.PORT || 3001;
 
-
-
 // Create connection
 const db = mysql.createConnection({
     host: process.env.DB_HOST,
