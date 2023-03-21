@@ -20,8 +20,6 @@
     "mysql": "^2.18.1",
     "pdfkit": "^0.13.0",
     "reactstrap": "^9.1.6",
-    
-
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
     "@mui/material": "^5.11.13",
