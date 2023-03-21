@@ -36,7 +36,7 @@
       "react-app/jest"
     ]
   },
-  "proxy": "http://localhost:3001",
+  "proxy": "https://github.com/adrianiux38/cotizacionesbinary.git",
   "browserslist": {
     "production": [
       ">0.2%",
