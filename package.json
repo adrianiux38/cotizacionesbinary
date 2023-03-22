@@ -1,6 +1,7 @@
 {
   "name": "cotizacionesPolitica",
   "version": "1.0.0",
+  "port": 3000,
   "description": "",
   "engines": {
     "node": "14.16.0",
