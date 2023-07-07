@@ -50,7 +50,7 @@ app.post('/createService', async (req, res) => {
         if (err) {
         console.log(err);
         } else {
-        res.json({mensaje: "Datos enviados a BDD"});
+          return res.status(201).json({ success: true, mensaje: 'Datos enviados a BDD' });
         }
     });
     
